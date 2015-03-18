@@ -1,0 +1,861 @@
+PCBNEW-LibModule-V1  19/03/2015 00:13:59
+# encoding utf-8
+Units mm
+$INDEX
+OHIBOARD_R1_THT
+W-CONN-4x1-JST
+W-IC-HM11
+W-IC-TSSOP-16
+W-PASSIVE-1206
+$EndINDEX
+$MODULE OHIBOARD_R1_THT
+Po 0 0 0 15 54C6B9C1 00000000 ~~
+Li OHIBOARD_R1_THT
+Sc 0
+AR 
+Op 0 0 0
+T0 27.5 34.5 1 1 0 0.2 N V 21 N "OHIBOARD_R1_THT"
+T1 -30 34.5 1 1 0 0.2 N I 21 N "VAL**"
+DS 31.75 31.75 -31.75 31.75 0.15 21
+DS -31.75 31.75 -31.75 -31.75 0.15 21
+DS -31.75 -31.75 31.75 -31.75 0.15 21
+DS 31.75 -31.75 31.75 31.75 0.15 21
+$PAD
+Sh "10" C 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 24.13 29.21
+$EndPAD
+$PAD
+Sh "9" C 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 21.59 29.21
+$EndPAD
+$PAD
+Sh "8" C 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 19.05 29.21
+$EndPAD
+$PAD
+Sh "7" C 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 16.51 29.21
+$EndPAD
+$PAD
+Sh "6" C 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 13.97 29.21
+$EndPAD
+$PAD
+Sh "5" C 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 11.43 29.21
+$EndPAD
+$PAD
+Sh "4" C 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.89 29.21
+$EndPAD
+$PAD
+Sh "3" C 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 29.21
+$EndPAD
+$PAD
+Sh "2" C 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 29.21
+$EndPAD
+$PAD
+Sh "1" R 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1.27 29.21
+$EndPAD
+$PAD
+Sh "11" C 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 29.21 24.13
+$EndPAD
+$PAD
+Sh "12" C 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 26.67 24.13
+$EndPAD
+$PAD
+Sh "13" C 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 29.21 21.59
+$EndPAD
+$PAD
+Sh "14" C 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 26.67 21.59
+$EndPAD
+$PAD
+Sh "15" C 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 29.21 19.05
+$EndPAD
+$PAD
+Sh "16" C 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 26.67 19.05
+$EndPAD
+$PAD
+Sh "17" C 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 29.21 16.51
+$EndPAD
+$PAD
+Sh "18" C 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 26.67 16.51
+$EndPAD
+$PAD
+Sh "19" C 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 29.21 13.97
+$EndPAD
+$PAD
+Sh "20" C 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 26.67 13.97
+$EndPAD
+$PAD
+Sh "21" C 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 29.21 11.43
+$EndPAD
+$PAD
+Sh "22" C 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 26.67 11.43
+$EndPAD
+$PAD
+Sh "23" C 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 29.21 8.89
+$EndPAD
+$PAD
+Sh "24" C 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 26.67 8.89
+$EndPAD
+$PAD
+Sh "25" C 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 29.21 6.35
+$EndPAD
+$PAD
+Sh "26" C 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 26.67 6.35
+$EndPAD
+$PAD
+Sh "27" C 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 29.21 3.81
+$EndPAD
+$PAD
+Sh "28" C 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 26.67 3.81
+$EndPAD
+$PAD
+Sh "29" C 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 29.21 1.27
+$EndPAD
+$PAD
+Sh "30" C 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 26.67 1.27
+$EndPAD
+$PAD
+Sh "31" C 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 29.21 -1.27
+$EndPAD
+$PAD
+Sh "32" C 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 26.67 -1.27
+$EndPAD
+$PAD
+Sh "33" C 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 29.21 -3.81
+$EndPAD
+$PAD
+Sh "34" C 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 26.67 -3.81
+$EndPAD
+$PAD
+Sh "35" C 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 29.21 -6.35
+$EndPAD
+$PAD
+Sh "36" C 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 26.67 -6.35
+$EndPAD
+$PAD
+Sh "37" C 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 29.21 -8.89
+$EndPAD
+$PAD
+Sh "38" C 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 26.67 -8.89
+$EndPAD
+$PAD
+Sh "39" C 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 29.21 -11.43
+$EndPAD
+$PAD
+Sh "40" C 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 26.67 -11.43
+$EndPAD
+$PAD
+Sh "41" C 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 29.21 -13.97
+$EndPAD
+$PAD
+Sh "42" C 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 26.67 -13.97
+$EndPAD
+$PAD
+Sh "43" C 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 29.21 -16.51
+$EndPAD
+$PAD
+Sh "44" C 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 26.67 -16.51
+$EndPAD
+$PAD
+Sh "45" C 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 29.21 -19.05
+$EndPAD
+$PAD
+Sh "46" C 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 26.67 -19.05
+$EndPAD
+$PAD
+Sh "47" C 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 29.21 -21.59
+$EndPAD
+$PAD
+Sh "48" C 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 26.67 -21.59
+$EndPAD
+$PAD
+Sh "49" C 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 29.21 -24.13
+$EndPAD
+$PAD
+Sh "50" C 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 26.67 -24.13
+$EndPAD
+$PAD
+Sh "51" C 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 24.13 -29.21
+$EndPAD
+$PAD
+Sh "52" C 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 21.59 -29.21
+$EndPAD
+$PAD
+Sh "53" C 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 19.05 -29.21
+$EndPAD
+$PAD
+Sh "54" C 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 16.51 -29.21
+$EndPAD
+$PAD
+Sh "55" C 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 13.97 -29.21
+$EndPAD
+$PAD
+Sh "56" C 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 11.43 -29.21
+$EndPAD
+$PAD
+Sh "57" C 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 8.89 -29.21
+$EndPAD
+$PAD
+Sh "58" C 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 -29.21
+$EndPAD
+$PAD
+Sh "59" C 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 -29.21
+$EndPAD
+$PAD
+Sh "60" C 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1.27 -29.21
+$EndPAD
+$PAD
+Sh "61" C 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3.81 -29.21
+$EndPAD
+$PAD
+Sh "62" C 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6.35 -29.21
+$EndPAD
+$PAD
+Sh "63" C 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -8.89 -29.21
+$EndPAD
+$PAD
+Sh "64" C 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -11.43 -29.21
+$EndPAD
+$PAD
+Sh "65" C 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -13.97 -29.21
+$EndPAD
+$PAD
+Sh "66" C 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -16.51 -29.21
+$EndPAD
+$PAD
+Sh "67" C 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -19.05 -29.21
+$EndPAD
+$PAD
+Sh "68" C 1.5 1.5 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -21.59 -29.21
+$EndPAD
+$EndMODULE OHIBOARD_R1_THT
+$MODULE W-CONN-4x1-JST
+Po 0 0 0 15 550975D2 00000000 ~~
+Li W-CONN-4x1-JST
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -3.5 1 1 0 0.2 N V 21 N "W-CONN-4x1-JST"
+T1 0 4 1 1 0 0.2 N I 21 N "VAL**"
+DS 2.5 2 2.5 3 0.14986 21
+DS -2.5 3 -2.5 2 0.14986 21
+DS 4.5 3 5 3 0.14986 21
+DS -5 3 -4.5 3 0.14986 21
+DS -5 -2.5 5 -2.5 0.14986 21
+DS -5 -2.5 -5 3 0.14986 21
+DS 5 -2.5 5 3 0.14986 21
+DS -2.5 2 2.5 2 0.14986 21
+DS 4.5 3 2.5 3 0.14986 21
+DS -4.5 3 -2.5 3 0.14986 21
+$PAD
+Sh "1" R 1.2 1.2 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3 0
+$EndPAD
+$PAD
+Sh "2" C 1.2 1.2 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1 0
+$EndPAD
+$PAD
+Sh "3" C 1.2 1.2 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1 0
+$EndPAD
+$PAD
+Sh "4" C 1.2 1.2 0 0 0
+Dr 0.7 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3 0
+$EndPAD
+$EndMODULE W-CONN-4x1-JST
+$MODULE W-IC-HM11
+Po 0 0 0 15 5509781A 00000000 ~~
+Li W-IC-HM11
+Cd HM11 BLE HM-11
+Kw HM-11 BLE HM11
+Sc 0
+AR 
+Op 0 0 0
+T0 0 0 1 1 0 0.2 N V 21 N "W-IC-HM11"
+T1 0 0 1 1 0 0.2 N I 21 N "VAL**"
+DS -5.5 -8.9 -5.5 -3.8 0.15 21
+DS -5.9 -3.8 -5.9 -8.9 0.15 21
+DS -5.8 -8.9 -5.8 -3.8 0.15 21
+DS -5.7 -3.8 -5.7 -8.9 0.15 21
+DS -5.6 -8.9 -5.6 -3.8 0.15 21
+DS -4.2 -8.9 -4.2 -3.8 0.15 21
+DS -6 -3.8 -6 -8.9 0.15 21
+DS -6 -8.9 -2.2 -8.9 0.15 21
+DS -2.2 -8.9 -2.2 -5.2 0.15 21
+DS -2.2 -5.2 -0.2 -5.2 0.15 21
+DS -0.2 -5.2 -0.2 -8.9 0.15 21
+DS -0.2 -8.9 1.8 -8.9 0.15 21
+DS 1.8 -8.9 1.8 -5.2 0.15 21
+DS 1.8 -5.2 3.8 -5.2 0.15 21
+DS 3.8 -5.2 3.8 -8.9 0.15 21
+DS 3.8 -8.9 5.8 -8.9 0.15 21
+DS 5.8 -8.9 5.8 -5.2 0.15 21
+DS -6.8 -3.8 6.8 -3.8 0.15 21
+DS 6.8 -9.3 6.8 -3 0.15 21
+DS -6.8 -9.3 -6.8 -3 0.15 21
+DS 6.8 9.3 6.8 9 0.15 21
+DS -6.8 9.3 -6.8 9 0.15 21
+DS 6.8 -9.3 -6.8 -9.3 0.15 21
+DS -6.8 9.3 6.8 9.3 0.15 21
+$PAD
+Sh "8" R 2.4 0.9 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.75 8.25
+$EndPAD
+$PAD
+Sh "7" R 2.4 0.9 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.75 6.75
+$EndPAD
+$PAD
+Sh "6" R 2.4 0.9 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.75 5.25
+$EndPAD
+$PAD
+Sh "5" R 2.4 0.9 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.75 3.75
+$EndPAD
+$PAD
+Sh "4" R 2.4 0.9 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.75 2.25
+$EndPAD
+$PAD
+Sh "3" R 2.4 0.9 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.75 0.75
+$EndPAD
+$PAD
+Sh "2" R 2.4 0.9 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.75 -0.75
+$EndPAD
+$PAD
+Sh "1" R 2.4 0.9 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.75 -2.25
+$EndPAD
+$PAD
+Sh "9" R 2.4 0.9 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.75 8.25
+$EndPAD
+$PAD
+Sh "10" R 2.4 0.9 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.75 6.75
+$EndPAD
+$PAD
+Sh "11" R 2.4 0.9 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.75 5.25
+$EndPAD
+$PAD
+Sh "12" R 2.4 0.9 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.75 3.75
+$EndPAD
+$PAD
+Sh "13" R 2.4 0.9 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.75 2.25
+$EndPAD
+$PAD
+Sh "14" R 2.4 0.9 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.75 0.75
+$EndPAD
+$PAD
+Sh "15" R 2.4 0.9 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.75 -0.75
+$EndPAD
+$PAD
+Sh "16" R 2.4 0.9 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.75 -2.25
+$EndPAD
+$EndMODULE W-IC-HM11
+$MODULE W-IC-TSSOP-16
+Po 0 0 0 15 550A0695 00000000 ~~
+Li W-IC-TSSOP-16
+Cd TSSOP-16
+Kw TSSOP-16 TSSOP_16 TSSOP16
+Sc 0
+AR 
+Op 0 0 0
+T0 9.8 -0.7 1.00076 1.00076 0 0.20066 N V 21 N "W-IC-TSSOP-16"
+T1 5 0.9 1.00076 1.00076 0 0.20066 N I 21 N "Val*"
+DS -3.2 2.6 -2.8 3 0.15 21
+DS -2.8 3 -3.2 3.4 0.15 21
+DS -3.2 3.4 -3.2 2.6 0.15 21
+DS -2.5 0 -1.8 0 0.15 21
+DS -1.8 0 -1.8 2 0.15 21
+DS -2.5 -2 2.5 -2 0.15 21
+DS 2.5 -2 2.5 2 0.15 21
+DS 2.5 2 -2.5 2 0.15 21
+DS -2.5 2 -2.5 -2 0.15 21
+$PAD
+Sh "2" R 0.29972 1.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.625 3
+$EndPAD
+$PAD
+Sh "3" R 0.29972 1.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.975 3
+$EndPAD
+$PAD
+Sh "4" R 0.29972 1.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.325 3
+$EndPAD
+$PAD
+Sh "1" R 0.29972 1.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.275 3
+$EndPAD
+$PAD
+Sh "10" R 0.29972 1.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.625 -3
+$EndPAD
+$PAD
+Sh "11" R 0.29972 1.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.975 -3
+$EndPAD
+$PAD
+Sh "12" R 0.29972 1.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.325 -3
+$EndPAD
+$PAD
+Sh "9" R 0.29972 1.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.275 -3
+$EndPAD
+$PAD
+Sh "7" R 0.29972 1.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.625 3
+$EndPAD
+$PAD
+Sh "5" R 0.29972 1.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.325 3
+$EndPAD
+$PAD
+Sh "6" R 0.29972 1.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.975 3
+$EndPAD
+$PAD
+Sh "13" R 0.29972 1.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.325 -3
+$EndPAD
+$PAD
+Sh "14" R 0.29972 1.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.975 -3
+$EndPAD
+$PAD
+Sh "15" R 0.29972 1.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.625 -3
+$EndPAD
+$PAD
+Sh "8" R 0.29972 1.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.275 3
+$EndPAD
+$PAD
+Sh "16" R 0.29972 1.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -2.275 -3
+$EndPAD
+$SHAPE3D
+Na "walter/smd_dil/tssop-16.wrl"
+Sc 1 1 1
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
+$EndMODULE W-IC-TSSOP-16
+$MODULE W-PASSIVE-1206
+Po 0 0 0 15 5509763D 00000000 ~~
+Li W-PASSIVE-1206
+Cd SMD 1206
+Kw 1206 SM1206
+Sc 0
+AR MAHS-RESISTOR-0805
+Op 0 0 0
+T0 0 0 1.00076 1.00076 0 0.20066 N V 21 N "W-PASSIVE-1206"
+T1 0 0 1.00076 1.00076 0 0.20066 N I 21 N "VAL**"
+DS -2.6035 -1.27 2.6035 -1.27 0.14986 21
+DS 2.6035 -1.27 2.6035 1.2065 0.14986 21
+DS 2.6035 1.2065 -2.6035 1.2065 0.14986 21
+DS -2.6035 1.2065 -2.6035 -1.27 0.14986 21
+$PAD
+Sh "1" R 1.2 1.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.6 0
+$EndPAD
+$PAD
+Sh "2" R 1.2 1.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.6 0
+$EndPAD
+$EndMODULE W-PASSIVE-1206
+$EndLIBRARY
