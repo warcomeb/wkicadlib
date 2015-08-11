@@ -1,4 +1,4 @@
-EESchema-LIBRARY Version 2.3  Date: 11/08/2015 13:57:30
+EESchema-LIBRARY Version 2.3  Date: 11/08/2015 14:03:13
 #encoding utf-8
 #
 # FT230XS
@@ -196,7 +196,7 @@ F6 "RS Components S.p.A." 800 -250 60 H I C CNN "Distributor"
 F7 "878-7358" 900 -150 60 H I C CNN "Cod. Distributor"
 F8 "19.900" 1000 -50 60 H I C CNN "Price €"
 DRAW
-S -400 700 400 -700 0 1 0 N
+S -400 700 400 -700 0 1 0 f
 X GPIO3 1 -700 150 300 R 50 50 1 1 B
 X BOOT0 2 700 -400 300 L 50 50 1 1 I
 X ~RESET 3 -700 -400 300 R 50 50 1 1 I
