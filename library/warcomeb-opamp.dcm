@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SI8920BC-IP
+D Si8920 Isolated Amplifier for Current Shunt Measurement
+F http://www.silabs.com/Support%20Documents/TechnicalDocs/Si8920.pdf
+$ENDCMP
+#
+#End Doc Library
