@@ -81,6 +81,10 @@ Library
 |   |   |-- DRV8804DW
 |   |   |-- SN65HVS882
 |   |
+|   |-- Microcontroller
+|   |   |-- ATSAM3X8E
+|   |   |-- MKL15Z128VLH4
+|   |
 |   |-- Miscellaneous
 |   |   |-- SMALL_JUMPER
 |   |   |-- TEST_POINT
@@ -101,6 +105,7 @@ Library
 |   |   |-- RESISTOR
 |   |
 |   |-- Transceiver
+|       |-- FT230XS
 |       |-- SN65HVD888
 |
 |-- Footprint
