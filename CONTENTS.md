@@ -42,8 +42,10 @@ Library
 |   |   |-- CONN_2X1 
 |   |   |-- CONN_3X1
 |   |   |-- CONN_4X1
+|   |   |-- CONN_5X2
 |   |   |-- CONN_6X1
 |   |   |-- CONN_8X1
+|   |   |-- MICROUSB-629105150521
 |   |
 |   |-- DcDc
 |   |   |-- TEL3-2411
@@ -100,9 +102,18 @@ Library
 |   |   |-- SPX3819-3.3
 |   |
 |   |-- Resistor
+|   |   |-- CAT16-103J4LF
+|   |   |-- CAT16-104J4LF
 |   |   |-- MMA0204-1K2
 |   |   |-- MMB0207-56
 |   |   |-- RESISTOR
+|   |
+|   |-- Sensor
+|   |   |-- FXAS21002C
+|   |   |-- FXOS8700CQ
+|   |
+|   |-- Switch
+|   |   |-- EVQPE104K
 |   |
 |   |-- Transceiver
 |       |-- FT230XS
