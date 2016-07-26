@@ -31,7 +31,6 @@ Library
 |   |
 |   |-- Analog
 |   |   |-- MAX31855
-|   |   |-- OPA2132U
 |   |
 |   |-- Capacitor
 |   |   |-- CAPACITOR
@@ -92,6 +91,8 @@ Library
 |   |   |-- TEST_POINT
 |   |
 |   |-- Operational Amplifier
+|   |   |-- OPA2132U
+|   |   |-- OPA2314
 |   |   |-- SI8920BC-IP
 |   |
 |   |-- Optoisolator

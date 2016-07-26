@@ -5,9 +5,4 @@ D MAX31855 Cold-Junction Compensated Thermocouple-to-Digital Converter
 F https://datasheets.maximintegrated.com/en/ds/MAX31855.pdf
 $ENDCMP
 #
-$CMP OPA2132U
-D OPAx132High-SpeedFET-Input Operational Amplifiers
-F http://www.ti.com/lit/ds/symlink/opa2132.pdf
-$ENDCMP
-#
 #End Doc Library
