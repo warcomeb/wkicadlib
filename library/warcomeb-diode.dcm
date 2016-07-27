@@ -19,6 +19,11 @@ $CMP DZ2436000L
 D DZ2436000L Zener Diode
 $ENDCMP
 #
+$CMP MBR0520
+D MBR0520LT1G Surface Mount Schottky Power Rectifier 0.5 Amperes 20 Volts
+F http://www.onsemi.com/pub/Collateral/MBR0520LT1-D.PDF
+$ENDCMP
+#
 $CMP MMBD7000LT1G
 D MMBD7000LT1G Dual Switching Diode
 F http://www.onsemi.com/pub_link/Collateral/MMBD7000LT1-D.PDF

@@ -46,6 +46,9 @@ Library
 |   |   |-- CONN_8X1
 |   |   |-- MICROUSB-629105150521
 |   |
+|   |-- Crystal
+|   |   |--32768Hz_CM7V-T1A
+|   |
 |   |-- DcDc
 |   |   |-- TEL3-2411
 |   |   |-- TME2405S
@@ -112,6 +115,7 @@ Library
 |   |-- Sensor
 |   |   |-- FXAS21002C
 |   |   |-- FXOS8700CQ
+|   |   |-- MPL3115A2
 |   |
 |   |-- Switch
 |   |   |-- EVQPE104K
