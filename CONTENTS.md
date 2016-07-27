@@ -62,6 +62,7 @@ Library
 |   |   |-- BYM10-1000
 |   |   |-- CD0603-SO180R
 |   |   |-- CDSOT23-SM712
+|   |   |-- MBR0520
 |   |   |-- MMBD7000LT1G
 |   |   |-- PESD12VL2BT
 |   |   |-- RS1M
@@ -111,6 +112,7 @@ Library
 |   |   |-- MMA0204-1K2
 |   |   |-- MMB0207-56
 |   |   |-- RESISTOR
+|   |   |-- VARISTANCE
 |   |
 |   |-- Sensor
 |   |   |-- FXAS21002C
