@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP AMCA31-2R450G-S1F-T
+D Surface Mount WLAN / Bluetooth Chip Antenna (2450MHz)
+F http://www.abracon.com/chip-antenna/AMCA31-2R450G-S1F-T.pdf
+$ENDCMP
+#
 $CMP SMALL_JUMPER
 D Solder jumper
 $ENDCMP

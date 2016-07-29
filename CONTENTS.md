@@ -32,6 +32,9 @@ Library
 |   |-- Analog
 |   |   |-- MAX31855
 |   |
+|   |-- Battery Charger
+|   |   |-- LTC4067
+|   |
 |   |-- Capacitor
 |   |   |-- CAPACITOR
 |   |   |-- CAPACITOR_POL
@@ -47,7 +50,8 @@ Library
 |   |   |-- MICROUSB-629105150521
 |   |
 |   |-- Crystal
-|   |   |--32768Hz_CM7V-T1A
+|   |   |-- 32768Hz_CM7V-T1A
+|   |   |-- ABM7-16.000MHZ
 |   |
 |   |-- DcDc
 |   |   |-- TEL3-2411
@@ -91,6 +95,7 @@ Library
 |   |   |-- MKL15Z128VLH4
 |   |
 |   |-- Miscellaneous
+|   |   |-- AMCA31-2R450G-S1F-T (ANTENNA)
 |   |   |-- SMALL_JUMPER
 |   |   |-- TEST_POINT
 |   |
@@ -123,8 +128,14 @@ Library
 |   |   |-- EVQPE104K
 |   |
 |   |-- Transceiver
-|       |-- FT230XS
-|       |-- SN65HVD888
+|   |   |-- FT230XS
+|   |   |-- SN65HVD888
+|   |
+|   |-- Transistor
+|   |   |-- ZVN4210G
+|   |
+|   |-- Wireless
+|       |-- ZVN4210G
 |
 |-- Footprint
 
