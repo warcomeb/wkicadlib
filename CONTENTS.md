@@ -82,6 +82,7 @@ Library
 |   |   |-- INDUCTOR
 |   |
 |   |-- Led
+|   |   |-- CLV1A-FKB (RGB)
 |   |   |-- GREEN
 |   |   |-- RED
 |   |   |-- YELLOW
@@ -97,6 +98,7 @@ Library
 |   |-- Miscellaneous
 |   |   |-- AMCA31-2R450G-S1F-T (ANTENNA)
 |   |   |-- SMALL_JUMPER
+|   |   |-- SMALL_JUMPER_3
 |   |   |-- TEST_POINT
 |   |
 |   |-- Operational Amplifier
@@ -132,6 +134,7 @@ Library
 |   |   |-- SN65HVD888
 |   |
 |   |-- Transistor
+|   |   |-- IRLML6402
 |   |   |-- ZVN4210G
 |   |
 |   |-- Wireless

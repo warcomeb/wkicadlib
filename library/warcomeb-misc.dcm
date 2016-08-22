@@ -9,6 +9,10 @@ $CMP SMALL_JUMPER
 D Solder jumper
 $ENDCMP
 #
+$CMP SMALL_JUMPER_3
+D Solder jumper
+$ENDCMP
+#
 $CMP TEST_POINT
 D Solder jumper
 $ENDCMP
