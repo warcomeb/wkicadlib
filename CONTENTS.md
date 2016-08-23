@@ -90,6 +90,8 @@ Library
 |   |-- Logic
 |   |   |-- DRV8804DW
 |   |   |-- SN65HVS882
+|   |   |-- SN74LV14A
+|   |   |-- VN808CM-E
 |   |
 |   |-- Microcontroller
 |   |   |-- ATSAM3X8E
@@ -108,6 +110,7 @@ Library
 |   |
 |   |-- Optoisolator
 |   |   |-- ISO7241M
+|   |   |-- ISO7340FC
 |   |   |-- ISO7421
 |   |
 |   |-- Regulator
